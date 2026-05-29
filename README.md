@@ -50,3 +50,5 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a2007798-1c4c-472e-bf0e-9f5408edca40" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d555e84-576f-43f6-aab1-d551d8edaf6f" />
+
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/8839146c-2326-45a6-b7d4-9a2d947692a6" />
